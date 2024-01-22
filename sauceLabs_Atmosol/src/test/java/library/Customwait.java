@@ -11,7 +11,7 @@ public class Customwait {
 	WebDriver driver;
 	
 	public Customwait(WebDriver driver) {
-		this.driver=driver;
+		this.driver=driver;//this is
 	}
 
 public void expwait(By xp) {
